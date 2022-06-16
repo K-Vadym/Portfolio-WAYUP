@@ -1,0 +1,55 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #282727;
+    font-size: 12px;
+}
+
+img{
+    width: 150px;
+}
+
+h1{
+    color: #d40101;
+    font-size: 20px;
+   
+}
+
+.p_one{
+    font-size: 10px;
+    background-color: #2d2ddc;
+    border: 60px;
+    width: 60px;
+    height: auto;
+    padding: 10px;
+    margin: 0px 0px 50px 0px;
+}
+
+.header span{
+    color: #d40101;
+}
+
+h2{
+    background: #097209;
+    color: #eaf2f2;
+    font-size: 15px;
+}
+
+.h2_two{
+    width: auto;
+    padding: 20px;
+}
+
+.p_four{
+    padding: 0px 80px;
+}
+
+.form_one input, button{
+    font-size: 10px;
+    
+}
+
+.ul_one li{
+    border: 1px solid;
+    font-size: 15px;
+}
